@@ -2,8 +2,7 @@
 GeoPDF
 ======
 
-.. image:: https://travis-ci.org/garnertb/geopdf.png
-   :target: https://travis-ci.org/garnertb/geopdf
+[![Build Status](https://travis-ci.org/garnertb/geopdf.svg?branch=master)](https://travis-ci.org/garnertb/geopdf)
 
 GeoPDF is a simple wrapper around [ReportLab](http://www.reportlab.com/) that allows developers to create basic GeoPDFs by
 following the [GeoPDF Encoding Best Practices](http://portal.opengeospatial.org/files/?artifact_id=33332)
