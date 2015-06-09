@@ -34,7 +34,7 @@ registration points (which tie PDF pixel locations to map locations) and you're 
 keyword arguments that you pass it so refer to the [GeoPDF Encoding Best Practices](http://portal.opengeospatial.org/files/?artifact_id=33332)
 document to learn about all of the things that the GeoPDF supports.
 
-```
+```python
 from geopdf import GeoCanvas
 from reportlab.pdfbase.pdfdoc import PDFString, PDFArray
 
