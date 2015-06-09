@@ -15,7 +15,7 @@ Install this project from PyPI by running the command below:
 
 ```$ pip install geopdf```
 
-or alternatively from source (github mater):
+or alternatively from source (github master):
 
 ```$ pip install git+https://github.com/garnertb/geopdf.git#egg=geopdf```
 
